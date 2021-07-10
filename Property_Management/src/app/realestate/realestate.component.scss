@@ -1,0 +1,22 @@
+.image-card {
+    max-width: 400px;
+  }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.list-card {
+    float: left;
+    width: 50%;
+}
+
+ul {
+  font-size: 2em;
+}
+
+li {
+  margin: 0.25em;
+}

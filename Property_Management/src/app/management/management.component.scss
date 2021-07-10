@@ -1,0 +1,31 @@
+mat-grid-list {
+height: 5em;
+}
+
+mat-grid-tile {
+    height: 10em;
+    padding-top: 0 !important;
+}
+
+mat-card {
+    // position: fixed;
+    // top: 6em;
+     height: 5em;
+     width: 10em;
+}
+
+.service-details-card {
+    width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+    display: flex;
+    justify-content: stretch;
+ //   margin-left: 15%;
+ //   margin-right: 15%;
+}
+
+.ad-banner {
+    width: 50em;
+    margin-left: 15%;
+    margin-right: 15%;
+}
